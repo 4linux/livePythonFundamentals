@@ -1,0 +1,4 @@
+# arquivos de cache
+__pycache__
+# diretório do ambiente virtual
+env/
